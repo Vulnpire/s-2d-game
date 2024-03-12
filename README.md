@@ -35,7 +35,7 @@ pip install pygame
 1. Clone the repository:
 
 ```
-git clone https://github.com/byt3scr1b3/s-2d-game.git
+git clone https://github.com/Vulnpire/s-2d-game.git
 cd s-2d-game
 ```
 
